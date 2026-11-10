@@ -14,5 +14,4 @@ Interfaz de consola interactiva.
 3. Ejecuta el código en tu entorno de desarrollo (Visual Studio, VS Code o compiladores en línea).
 
 ## Autor
-***Tu Nombre Completo** *Estudiante de Informática* [Tu Perfil de GitHub] (https://github.com/-
--usuario)
+***Iturbide Lopez Melanie Amaia** *Estudiante de Informática* (https://github.com/iturbide-lbp)
